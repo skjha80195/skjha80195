@@ -1,6 +1,7 @@
+<h1 align="center">I am Prajwal Jha</h1>
+
 ![Full Stack Developer](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
-<h1 align="center">I am Prajwal Jha</h1>
 ## 📝 Summary
 Accomplished **Full Stack Web Developer** with **3+ years** of experience delivering end-to-end solutions for both front-end and back-end.  
 - Designed and developed user-friendly interfaces, boosting **user satisfaction by 20%**.  
