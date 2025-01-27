@@ -1,4 +1,6 @@
-# Hi there 👋
+# Hi there, I'm Prajwal Jha 👋
+
+![Full Stack Developer](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
 ## 📝 Summary
 Accomplished **Full Stack Web Developer** with **3+ years** of experience delivering end-to-end solutions for both front-end and back-end.  
